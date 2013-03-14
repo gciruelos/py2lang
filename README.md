@@ -1,4 +1,5 @@
-cpp2py
-======
+lang2py
+=======
 
-A C++ to Python translator.
+A translator from several programming languages to Python.
+
