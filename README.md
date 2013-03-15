@@ -1,5 +1,6 @@
-lang2py
+py2lang
 =======
 
-A translator from several programming languages to Python.
+A translator from Python to multiple programming languages.
 
+----Planned----
